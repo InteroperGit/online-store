@@ -1,0 +1,7 @@
+.dataTable-td {
+    vertical-align: middle!important;
+}
+
+.dataTable-nameHeader {
+    cursor: pointer;
+}

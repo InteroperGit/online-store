@@ -1,0 +1,15 @@
+@media (min-width: 576px) {
+
+    .deviceList-deviceContainer {
+        margin-left: 5rem;
+    }
+    
+}
+
+@media (min-width: 0px) and (max-width: 576px) {
+
+    .deviceList-deviceContainer {
+        margin-left: 0;
+    }
+    
+}

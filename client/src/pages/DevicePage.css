@@ -1,0 +1,29 @@
+.devicePage-imageContainer {
+    width: 300px;
+    max-height: 400px;
+    text-align: center;
+}
+
+.devicePage-deviceImage {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: 100%;
+    max-width: 280px;
+    max-height: 380px;
+}
+
+.devicePage-star {
+    background: url('../assets//png//bigStar.png') no-repeat center center;
+    background-size: cover;
+    font-size: 5rem;
+    width: 240px;
+    height: 240px;
+}
+
+.devicePage-priceCard {
+    height: 300px;
+    font-size: 3rem;
+    border: 2px solid gray;
+    margin: 0 auto;
+}

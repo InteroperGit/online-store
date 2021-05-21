@@ -1,0 +1,8 @@
+.brand-card {
+    cursor: pointer;
+}
+
+.brand-card:hover {
+    background-color: orange;
+    color: white;
+}
