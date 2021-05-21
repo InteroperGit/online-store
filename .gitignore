@@ -13,6 +13,9 @@ build/
 public/
 static/
 
+#.env
+.env.secret
+
 # misc
 .DS_Store
 .env.local
